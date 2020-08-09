@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/09/20 15:49:38 by Eclipse SUMO netedit Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="C:\Users\User\Documents\Articulo\Evento%20Santa%20Elena\NuevoProyecto\Otavalo.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\User\Documents\Articulo\Evento%20Santa%20Elena\NuevoProyecto\Otavalo.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="C:\Users\User\Documents\Articulo\Evento%20Santa%20Elena\NuevoProyecto\Candidatos.add.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <poly id="Candidato" color="red" fill="1" layer="128.00" shape="4361.320000,6928.860000 4482.560000,6856.860000 4559.740000,7006.340000 4434.720000,7072.980000 4362.520000,6928.630000"/>
+    <poly id="Candidato_1" color="red" fill="1" layer="128.00" shape="4791.180000,7935.370000 4945.880000,8179.930000 5110.170000,8057.530000 5183.250000,7999.670000 5230.460000,7938.760000 5347.700000,7806.300000 5318.770000,7765.180000 5180.210000,7725.600000 4977.700000,7803.250000 4938.110000,7844.360000 4790.420000,7935.720000"/>
+    <poly id="Candidato_2" color="red" fill="1" layer="128.00" shape="4171.570000,6606.090000 4277.920000,6517.460000 4351.780000,6591.320000 4402.000000,6643.750000 4492.850000,6824.700000 4354.520000,6909.860000 4224.860000,6674.350000 4173.720000,6605.360000"/>
+    <poly id="Candidato_3" color="red" fill="1" layer="128.00" shape="2733.190000,6676.720000 2750.730000,6648.670000 2755.280000,6625.690000 2856.380000,6578.090000 2855.710000,6719.880000 2882.220000,6808.620000 2807.310000,6883.530000 2710.500000,6772.890000 2742.770000,6733.710000 2740.810000,6697.060000 2733.190000,6676.720000"/>
+    <poly id="Candidato_4" color="red" fill="1" layer="128.00" shape="3622.840000,4934.580000 3400.500000,5164.330000 3289.330000,5151.970000 3356.030000,5016.100000 3376.480000,5020.890000 3390.890000,5020.660000 3405.580000,5016.990000 3421.250000,5011.880000 3434.670000,5004.660000 3451.960000,4984.240000 3462.390000,4966.940000 3475.250000,4939.850000 3475.360000,4914.080000 3476.650000,4894.320000 3478.550000,4864.360000 3477.950000,4813.940000 3474.290000,4774.230000 3467.600000,4730.320000 3462.560000,4708.480000 3435.060000,4643.000000 3440.030000,4618.370000 3758.710000,4652.950000 3678.160000,4760.640000 3664.870000,4800.680000 3620.370000,4934.580000"/>
+</additional>

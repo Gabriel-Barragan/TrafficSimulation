@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+       <net-file value="Otavalo.net.xml"/>
+	   <additional-files value="C:\Users\User\Documents\Articulo\Evento Santa Elena\NuevoProyecto\Add\Candidatos.add.xml"/>
+       <!-- <route-files value="ruta.rou.xml"/> -->
+    </input>
+	<processing>
+		<time-to-teleport value="-1"/>
+	</processing>
+</configuration>
